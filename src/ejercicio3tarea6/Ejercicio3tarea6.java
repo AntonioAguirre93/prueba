@@ -7,7 +7,7 @@ package ejercicio3tarea6;
 
 /**
  *
- * @author antonio
+ * @author antonio 2
  */
 public class Ejercicio3tarea6 {
 
